@@ -26,7 +26,7 @@
 - 🌱 Exploring **LLMs, Graph Neural Networks, and Cloud ML pipelines**
 - 🎯 Focused on **real-world problem solving** through data-driven intelligence
 - 🤝 Open to **collaborations** on AI, Data Science, and ML projects
-- 📫 Reach me at **thrithwaka@example.com**
+- 📫 Reach me at thrithwakapreethi57@gmail.com
 
 ---
 
