@@ -10,14 +10,11 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/thrithwakapreethi57%40gmail.com-52B788?style=flat-square&logo=gmail&logoColor=white)](mailto:thrithwakapreethi57@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B4332?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thrithwaka-preethi-7100ab295)
-[![Portfolio](https://img.shields.io/badge/Portfolio-40916C?style=flat-square&logo=vercel&logoColor=white)](https://thrithwakapreethishakya.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-2D6A4F?style=flat-square&logo=github&logoColor=white)](https://github.com/Thrithwaka)
-
-<br/>
-
-<img src="https://img.shields.io/badge/-●%20●%20●-e8f5ee?style=flat-square" height="4" />
+[![LinkedIn](./assets/btn-linkedin.svg)](https://www.linkedin.com/in/thrithwaka-preethi-7100ab295)
+&nbsp;&nbsp;
+[![Portfolio](./assets/btn-portfolio.svg)](https://thrithwakapreethishakya.vercel.app/)
+&nbsp;&nbsp;
+[![Email](./assets/btn-email.svg)](mailto:thrithwakapreethi57@gmail.com)
 
 </div>
 
@@ -40,19 +37,7 @@ Final-year Data Science undergraduate at **SLTC Research University** (Sri Lanka
 <sub>Computed from real per-repository language byte counts via the GitHub API — recalculated on every commit.</sub>
 
 <!--START_SECTION:techstack-->
-<!-- Auto-generated from real per-repo language byte counts via the GitHub API. -->
-| Language | Share | |
-|---|---|---|
-| **Jupyter Notebook** | 48.6% | `█████░░░░░` |
-| **Python** | 30.1% | `███░░░░░░░` |
-| **HTML** | 15.0% | `██░░░░░░░░` |
-| **TypeScript** | 4.0% | `░░░░░░░░░░` |
-| **CSS** | 1.6% | `░░░░░░░░░░` |
-| **JavaScript** | 0.4% | `░░░░░░░░░░` |
-| **Shell** | 0.2% | `░░░░░░░░░░` |
-| **Dockerfile** | 0.0% | `░░░░░░░░░░` |
-| **Mako** | 0.0% | `░░░░░░░░░░` |
-| **TeX** | 0.0% | `░░░░░░░░░░` |
+<sub>Not yet generated — runs on first workflow execution.</sub>
 <!--END_SECTION:techstack-->
 
 <br/>
@@ -89,17 +74,7 @@ Final-year Data Science undergraduate at **SLTC Research University** (Sri Lanka
 <sub>Every public, non-fork repository — sorted by most recent activity, sourced from the GitHub API.</sub>
 
 <!--START_SECTION:projects-->
-<!-- Auto-generated: every public, non-fork repo, sorted by most recently pushed. -->
-| Project | Summary | Stack | Last Update |
-|---|---|---|---|
-| **[Thrithwaka](https://github.com/Thrithwaka/Thrithwaka)** | — | Python | 2026-08-31 |
-| **[ogbn-arxiv-node-classification](https://github.com/Thrithwaka/ogbn-arxiv-node-classification)** | Node classification on the OGBN-Arxiv citation network using GCN and GraphSAGE, with model comparison, interpretability analysis, and an interactive dashboard. | Jupyter Notebook | 2026-08-17 |
-| **[smartcare-ai-project](https://github.com/Thrithwaka/smartcare-ai-project)** | AI-powered disease risk classification system for SmartCare Hospital using ML, EDA, and Explainable AI (SHAP) — CCS3440 Artificial Intelligence coursework project. | Jupyter Notebook | 2026-08-16 |
-| **[my-portfolio](https://github.com/Thrithwaka/my-portfolio)** | Professional portfolio website highlighting academic foundations, AI engineering projects, certifications, technical skills, and innovation-focused personal branding. | TypeScript | 2026-05-27 |
-| **[LearnLens](https://github.com/Thrithwaka/LearnLens)** | AI-powered smart learning and quiz platform built with Flask, SQLAlchemy, and emotion-aware analytics to enhance digital education through interactive assessments, performance tracking, and intelligent engagement. | HTML | 2026-05-18 |
-| **[motor_rul_prediction](https://github.com/Thrithwaka/motor_rul_prediction)** | AI-powered Motor Remaining Useful Life (RUL) Prediction System with real-time health monitoring, LSTM-based predictive maintenance, live sensor analytics, fault detection, and Flask dashboard integration for smart industrial condition monitoring. | HTML | 2026-05-18 |
-| **[Wisec](https://github.com/Thrithwaka/Wisec)** | AI-powered Wi-Fi Security Vulnerability Assessment System that scans wireless networks, detects vulnerabilities, analyzes security risks, simulates passive threats, and provides intelligent security recommendations through Flask, machine learning, and cybersecurity automation. | Python | 2026-05-18 |
-| **[CIT-23-02-0094](https://github.com/Thrithwaka/CIT-23-02-0094)** | — | Shell | 2025-08-24 |
+<sub>Not yet generated — runs on first workflow execution.</sub>
 <!--END_SECTION:projects-->
 
 <br/>
@@ -107,7 +82,7 @@ Final-year Data Science undergraduate at **SLTC Research University** (Sri Lanka
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/Thrithwaka/ogbn-arxiv-node-classification/pull/12) in [Thrithwaka/ogbn-arxiv-node-classification](https://github.com/Thrithwaka/ogbn-arxiv-node-classification)
+<!-- Populated automatically -- real recent commits, PRs, issues, and forks. -->
 <!--END_SECTION:activity-->
 
 <br/>
