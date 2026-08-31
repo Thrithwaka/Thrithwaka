@@ -155,6 +155,7 @@ def main():
     repos = get_all_repos()
     lang_totals = get_language_totals(repos)
 
+    os.makedirs("assets", exist_ok=True)
     with open("assets/neural-network.svg", "w") as f:
         f.write(render_neural_svg(lang_totals))
 
