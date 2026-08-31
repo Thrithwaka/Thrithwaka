@@ -27,8 +27,9 @@ jobs:
 
       - name: Update recent activity section
         uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MAX_LINES: 5
 
       - name: Commit and push if changed
