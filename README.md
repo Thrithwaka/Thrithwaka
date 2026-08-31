@@ -43,19 +43,18 @@ Final-year **Data Science undergraduate at SLTC Research University** (Sri Lanka
 
 <!--START_SECTION:techstack-->
 <!-- Auto-generated from real per-repo language byte counts via the GitHub API. -->
-<p>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-48.6%25-0d4429?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-30.1%25-1b4332?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML-15.0%25-2d6a4f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-4.0%25-40916c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS-1.6%25-52b788?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-0.4%25-74c69d?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Shell-0.2%25-0d4429?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dockerfile-0.0%25-1b4332?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mako-0.0%25-2d6a4f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TeX-0.0%25-40916c?style=for-the-badge" />
-</p>
-<sub>Percentages are each language's live share of total code across all public repos.</sub>
+| Language | Share | |
+|---|---|---|
+| **Jupyter Notebook** | 48.6% | `█████░░░░░` |
+| **Python** | 30.1% | `███░░░░░░░` |
+| **HTML** | 15.0% | `██░░░░░░░░` |
+| **TypeScript** | 4.0% | `░░░░░░░░░░` |
+| **CSS** | 1.6% | `░░░░░░░░░░` |
+| **JavaScript** | 0.4% | `░░░░░░░░░░` |
+| **Shell** | 0.2% | `░░░░░░░░░░` |
+| **Dockerfile** | 0.0% | `░░░░░░░░░░` |
+| **Mako** | 0.0% | `░░░░░░░░░░` |
+| **TeX** | 0.0% | `░░░░░░░░░░` |
 <!--END_SECTION:techstack-->
 
 ---
@@ -87,16 +86,16 @@ The **"Contributed to (last year)"** figure in the stats card is PRs merged into
 
 <!--START_SECTION:projects-->
 <!-- Auto-generated: every public, non-fork repo, sorted by most recently pushed. -->
-| Project | Description | Primary Language | Stars | Last Push |
-|---|---|---|---|---|
-| [Thrithwaka](https://github.com/Thrithwaka/Thrithwaka) | — | Python | 0 | 2026-08-31 |
-| [ogbn-arxiv-node-classification](https://github.com/Thrithwaka/ogbn-arxiv-node-classification) | Node classification on the OGBN-Arxiv citation network using GCN and GraphSAGE, with model comparison, interpretability analysis, and an interactive dashboard. | Jupyter Notebook | 0 | 2026-08-17 |
-| [smartcare-ai-project](https://github.com/Thrithwaka/smartcare-ai-project) | AI-powered disease risk classification system for SmartCare Hospital using ML, EDA, and Explainable AI (SHAP) — CCS3440 Artificial Intelligence coursework project. | Jupyter Notebook | 0 | 2026-08-16 |
-| [my-portfolio](https://github.com/Thrithwaka/my-portfolio) | Professional portfolio website highlighting academic foundations, AI engineering projects, certifications, technical skills, and innovation-focused personal branding. | TypeScript | 0 | 2026-05-27 |
-| [LearnLens](https://github.com/Thrithwaka/LearnLens) | AI-powered smart learning and quiz platform built with Flask, SQLAlchemy, and emotion-aware analytics to enhance digital education through interactive assessments, performance tracking, and intelligent engagement. | HTML | 0 | 2026-05-18 |
-| [motor_rul_prediction](https://github.com/Thrithwaka/motor_rul_prediction) | AI-powered Motor Remaining Useful Life (RUL) Prediction System with real-time health monitoring, LSTM-based predictive maintenance, live sensor analytics, fault detection, and Flask dashboard integration for smart industrial condition monitoring. | HTML | 1 | 2026-05-18 |
-| [Wisec](https://github.com/Thrithwaka/Wisec) | AI-powered Wi-Fi Security Vulnerability Assessment System that scans wireless networks, detects vulnerabilities, analyzes security risks, simulates passive threats, and provides intelligent security recommendations through Flask, machine learning, and cybersecurity automation. | Python | 1 | 2026-05-18 |
-| [CIT-23-02-0094](https://github.com/Thrithwaka/CIT-23-02-0094) | — | Shell | 0 | 2025-08-24 |
+| Project | Summary | Stack | Last Update |
+|---|---|---|---|
+| **[Thrithwaka](https://github.com/Thrithwaka/Thrithwaka)** | — | Python | 2026-08-31 |
+| **[ogbn-arxiv-node-classification](https://github.com/Thrithwaka/ogbn-arxiv-node-classification)** | Node classification on the OGBN-Arxiv citation network using GCN and GraphSAGE, with model comparison, interpretability analysis, and an interactive dashboard. | Jupyter Notebook | 2026-08-17 |
+| **[smartcare-ai-project](https://github.com/Thrithwaka/smartcare-ai-project)** | AI-powered disease risk classification system for SmartCare Hospital using ML, EDA, and Explainable AI (SHAP) — CCS3440 Artificial Intelligence coursework project. | Jupyter Notebook | 2026-08-16 |
+| **[my-portfolio](https://github.com/Thrithwaka/my-portfolio)** | Professional portfolio website highlighting academic foundations, AI engineering projects, certifications, technical skills, and innovation-focused personal branding. | TypeScript | 2026-05-27 |
+| **[LearnLens](https://github.com/Thrithwaka/LearnLens)** | AI-powered smart learning and quiz platform built with Flask, SQLAlchemy, and emotion-aware analytics to enhance digital education through interactive assessments, performance tracking, and intelligent engagement. | HTML | 2026-05-18 |
+| **[motor_rul_prediction](https://github.com/Thrithwaka/motor_rul_prediction)** | AI-powered Motor Remaining Useful Life (RUL) Prediction System with real-time health monitoring, LSTM-based predictive maintenance, live sensor analytics, fault detection, and Flask dashboard integration for smart industrial condition monitoring. | HTML | 2026-05-18 |
+| **[Wisec](https://github.com/Thrithwaka/Wisec)** | AI-powered Wi-Fi Security Vulnerability Assessment System that scans wireless networks, detects vulnerabilities, analyzes security risks, simulates passive threats, and provides intelligent security recommendations through Flask, machine learning, and cybersecurity automation. | Python | 2026-05-18 |
+| **[CIT-23-02-0094](https://github.com/Thrithwaka/CIT-23-02-0094)** | — | Shell | 2025-08-24 |
 <!--END_SECTION:projects-->
 
 ---
