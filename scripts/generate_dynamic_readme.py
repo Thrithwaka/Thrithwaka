@@ -21,7 +21,7 @@ USERNAME = "Thrithwaka"
 API = "https://api.github.com"
 TOKEN = os.environ.get("GH_TOKEN", "")
 
-GREEN_SHADES = ["0d4429", "1b4332", "2d6a4f", "40916c", "52b788", "74c69d"]
+GREEN_SHADES = ["1B4332", "2D6A4F", "40916C", "52B788", "74C69D", "95D5B2"]
 
 
 def api_get(path):
@@ -59,36 +59,31 @@ def get_language_totals(repos):
 
 def render_tech_stack(lang_totals):
     total = sum(lang_totals.values()) or 1
-    rows = []
-    for i, (lang, byte_count) in enumerate(list(lang_totals.items())[:12]):
-        pct = round(100 * byte_count / total, 1)
-        color = GREEN_SHADES[i % len(GREEN_SHADES)]
-        badge = (
-            f'<img src="https://img.shields.io/badge/{lang.replace(" ", "%20")}'
-            f'-{pct}%25-{color}?style=for-the-badge" />'
-        )
-        rows.append(badge)
-    body = "\n  ".join(rows)
-    return (
-        "<!-- Auto-generated from real per-repo language byte counts via the GitHub API. -->\n"
-        f"<p>\n  {body}\n</p>\n"
-        "<sub>Percentages are each language's live share of total code across all public repos.</sub>"
-    )
+    rows = [
+        "<!-- Auto-generated from real per-repo language byte counts via the GitHub API. -->",
+        "| Language | Share | |",
+        "|---|---|---|",
+    ]
+    for lang, byte_count in list(lang_totals.items())[:10]:
+        pct = 100 * byte_count / total
+        filled = round(pct / 10)
+        bar = "\u2588" * filled + "\u2591" * (10 - filled)
+        rows.append(f"| **{lang}** | {pct:.1f}% | `{bar}` |")
+    return "\n".join(rows)
 
 
 def render_projects(repos):
     repos = sorted(repos, key=lambda r: r["pushed_at"], reverse=True)
     lines = [
         "<!-- Auto-generated: every public, non-fork repo, sorted by most recently pushed. -->",
-        "| Project | Description | Primary Language | Stars | Last Push |",
-        "|---|---|---|---|---|",
+        "| Project | Summary | Stack | Last Update |",
+        "|---|---|---|---|",
     ]
     for r in repos:
-        desc = (r.get("description") or "—").replace("|", "-")
-        lang = r.get("language") or "—"
+        desc = (r.get("description") or "\u2014").replace("|", "-")
+        lang = r.get("language") or "\u2014"
         lines.append(
-            f"| [{r['name']}]({r['html_url']}) | {desc} | {lang} | "
-            f"{r['stargazers_count']} | {r['pushed_at'][:10]} |"
+            f"| **[{r['name']}]({r['html_url']})** | {desc} | {lang} | {r['pushed_at'][:10]} |"
         )
     return "\n".join(lines)
 
@@ -111,28 +106,29 @@ def render_neural_svg(lang_totals):
         dur = round(2.4 + i * 0.15, 2)
         edges_svg.append(
             f'<line x1="{cx}" y1="{cy}" x2="{x:.1f}" y2="{y:.1f}" '
-            f'stroke="#52b788" stroke-width="1.4" stroke-opacity="0.35">'
-            f'<animate attributeName="stroke-opacity" values="0.1;0.7;0.1" '
+            f'stroke="#74C69D" stroke-width="1.4" stroke-opacity="0.45">'
+            f'<animate attributeName="stroke-opacity" values="0.15;0.75;0.15" '
             f'dur="{dur}s" repeatCount="indefinite" /></line>'
         )
         nodes_svg.append(
-            f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{r:.1f}" fill="#{color}" fill-opacity="0.85">'
+            f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{r:.1f}" fill="#{color}" fill-opacity="0.92">'
             f'<animate attributeName="r" values="{r:.1f};{r*1.15:.1f};{r:.1f}" '
             f'dur="{dur}s" repeatCount="indefinite" /></circle>'
             f'<text x="{x:.1f}" y="{y+4:.1f}" text-anchor="middle" '
-            f'font-family="JetBrains Mono, monospace" font-size="12" fill="#ffffff">{lang}</text>'
+            f'font-family="Inter, Helvetica, Arial, sans-serif" font-size="12" '
+            f'font-weight="600" fill="#ffffff">{lang}</text>'
         )
 
     core = (
-        f'<circle cx="{cx}" cy="{cy}" r="34" fill="#081c15" stroke="#52b788" stroke-width="2">'
+        f'<circle cx="{cx}" cy="{cy}" r="34" fill="#ffffff" stroke="#2D6A4F" stroke-width="2">'
         f'<animate attributeName="r" values="34;40;34" dur="2s" repeatCount="indefinite" />'
         f'</circle>'
-        f'<text x="{cx}" y="{cy+5}" text-anchor="middle" font-family="JetBrains Mono, monospace" '
-        f'font-size="13" fill="#74c69d">Thrithwaka</text>'
+        f'<text x="{cx}" y="{cy+5}" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" '
+        f'font-size="13" font-weight="600" fill="#1B4332">Thrithwaka</text>'
     )
 
     svg = f'''<svg width="840" height="520" viewBox="0 0 840 520" xmlns="http://www.w3.org/2000/svg">
-  <rect width="840" height="520" fill="#0d1117" />
+  <rect width="840" height="520" fill="#FBFDFC" />
   {"".join(edges_svg)}
   {core}
   {"".join(nodes_svg)}
