@@ -1,132 +1,100 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d4429,25:1b4332,50:2d6a4f,75:40916c,100:52b788&height=200&section=header&text=Thrithwaka%20Preethi%20Shakya&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20Researcher%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Applied%20NLP&descAlignY=55&descSize=16&animation=fadeIn" />
+<br/>
 
-<a href="https://github.com/Thrithwaka">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1200&color=52B788&center=true&vCenter=true&width=750&lines=BSc+(Hons)+Data+Science+%40+SLTC+Research+University;Researching+Emotion-Aware+%26+Multilingual+NLP+Systems;Deep+Learning+%7C+LLMs+%7C+Low-Resource+Sinhala%2FSinglish+NLP;Building+production+AI+on+a+zero-budget%2C+free-tier+stack" />
-</a>
+# Thrithwaka Preethi Shakya
+
+**Data Science Researcher · AI / ML Engineer · Applied NLP**
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&pause=1400&color=2D6A4F&background=00000000&center=true&vCenter=true&width=650&lines=BSc+(Hons)+Data+Science+%40+SLTC+Research+University;Low-Resource+NLP+%E2%80%A2+Emotion-Aware+AI+%E2%80%A2+Grounded+LLM+Systems" />
+
+<br/>
+
+[![Email](https://img.shields.io/badge/thrithwakapreethi57%40gmail.com-52B788?style=flat-square&logo=gmail&logoColor=white)](mailto:thrithwakapreethi57@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B4332?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thrithwaka-preethi-7100ab295)
+[![Portfolio](https://img.shields.io/badge/Portfolio-40916C?style=flat-square&logo=vercel&logoColor=white)](https://thrithwakapreethishakya.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-2D6A4F?style=flat-square&logo=github&logoColor=white)](https://github.com/Thrithwaka)
+
+<br/>
+
+<img src="https://img.shields.io/badge/-●%20●%20●-e8f5ee?style=flat-square" height="4" />
+
+</div>
+
+<br/>
+
+## Research Focus
+
+Final-year Data Science undergraduate at **SLTC Research University** (Sri Lanka Technological Campus), working at the intersection of NLP, deep learning, and human-centered computing — with a specific focus on low-resource language processing for **Sinhala and Singlish**.
+
+| | |
+|---|---|
+| **Currently researching** | Emotionally adaptive AI companions, multilingual spam/toxicity detection, grounded LLM systems for public discourse analysis |
+| **Methodology** | Full research pipelines — literature review, dataset schema design, model architecture, evaluation — built end-to-end on free-tier infrastructure |
+| **Open to** | Research collaboration, AI/ML internships, open-source contribution in Data Science and applied deep learning |
+
+<br/>
+
+## Technical Expertise
+
+<sub>Computed from real per-repository language byte counts via the GitHub API — recalculated on every commit.</sub>
+
+<!--START_SECTION:techstack-->
+<sub>Not yet generated — runs on first workflow execution.</sub>
+<!--END_SECTION:techstack-->
+
+<br/>
+
+## Live Skill Graph
+
+<sub>Node radius corresponds to each language's live share of code across all public repositories.</sub>
+
+<div align="center">
+<img src="./assets/neural-network.svg" width="720" />
+</div>
+
+<br/>
+
+## Live Metrics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Thrithwaka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2D6A4F&icon_color=52B788&text_color=4B5D55" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thrithwaka&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=00000000&title_color=2D6A4F&text_color=4B5D55" />
+
+<br/>
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thrithwaka&hide_border=true&background=00000000&ring=52B788&fire=2D6A4F&currStreakLabel=2D6A4F&sideLabels=4B5D55&currStreakNum=1B4332&sideNums=1B4332&dates=4B5D55" />
+
+</div>
+
+<sub>"Contributed to" reflects merged pull requests into repositories outside my own — the live measure of contribution to others' work.</sub>
+
+<br/>
+
+## Featured Work
+
+<sub>Every public, non-fork repository — sorted by most recent activity, sourced from the GitHub API.</sub>
+
+<!--START_SECTION:projects-->
+<sub>Not yet generated — runs on first workflow execution.</sub>
+<!--END_SECTION:projects-->
+
+<br/>
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- Populated automatically -- real recent commits, PRs, issues, and forks. -->
+<!--END_SECTION:activity-->
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/-●%20●%20●-e8f5ee?style=flat-square" height="4" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Thrithwaka&label=Profile+Views&color=2d6a4f&style=for-the-badge" />
-&nbsp;
-<a href="https://github.com/Thrithwaka?tab=followers"><img src="https://img.shields.io/github/followers/Thrithwaka?label=Followers&style=for-the-badge&color=40916c&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/thrithwaka-preethi-7100ab295"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-## About
-
-Final-year **Data Science undergraduate at SLTC Research University** (Sri Lanka Technological Campus), focused on applied AI research at the intersection of NLP, deep learning, and human-centered computing. My work centers on low-resource language processing (Sinhala/Singlish), emotionally adaptive AI systems, and building research-grade ML pipelines entirely on free-tier infrastructure.
-
-- **Currently researching:** emotionally adaptive AI companions, multilingual spam/toxicity detection, and grounded LLM systems for public discourse analysis
-- **Way of working:** full research pipelines — literature review, dataset schema design, model architecture, evaluation — on a low-spec laptop and zero project budget, using free-tier cloud/API resources end-to-end
-- **Open to:** research collaborations, AI/ML internships, and open-source contributions in Data Science, NLP, and applied deep learning
-- **Reach me:** thrithwakapreethi57@gmail.com · [Portfolio](https://thrithwakapreethishakya.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/thrithwaka-preethi-7100ab295)
-
----
-
-## Neural Network — Live Tech Signal Map
-
-<sub>Regenerated on every workflow run: node size = that language's real share of bytes across all public repos.</sub>
-
-<div align="center">
-<img src="./assets/neural-network.svg" width="820" />
-</div>
-
----
-
-## Tech Stack <sub>(auto-derived from real per-repo language bytes — nothing below is hand-typed)</sub>
-
-<!--START_SECTION:techstack-->
-<!-- Auto-generated from real per-repo language byte counts via the GitHub API. -->
-| Language | Share | |
-|---|---|---|
-| **Jupyter Notebook** | 48.6% | `█████░░░░░` |
-| **Python** | 30.1% | `███░░░░░░░` |
-| **HTML** | 15.0% | `██░░░░░░░░` |
-| **TypeScript** | 4.0% | `░░░░░░░░░░` |
-| **CSS** | 1.6% | `░░░░░░░░░░` |
-| **JavaScript** | 0.4% | `░░░░░░░░░░` |
-| **Shell** | 0.2% | `░░░░░░░░░░` |
-| **Dockerfile** | 0.0% | `░░░░░░░░░░` |
-| **Mako** | 0.0% | `░░░░░░░░░░` |
-| **TeX** | 0.0% | `░░░░░░░░░░` |
-<!--END_SECTION:techstack-->
-
----
-
-## Language & Activity Stats <sub>(live GitHub API)</sub>
-
-<div align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Thrithwaka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=52b788&text_color=c9d1d9" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thrithwaka&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=c9d1d9" />
-
-<br/>
-
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thrithwaka&hide_border=true&background=0d1117&ring=52b788&fire=52b788&currStreakLabel=52b788&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
-</div>
-
-The **"Contributed to (last year)"** figure in the stats card is PRs merged into repos that aren't mine — the live measure of contributions to others.
-
----
-
-## Recent GitHub Activity <sub>(auto-updated by a GitHub Action)</sub>
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/Thrithwaka/ogbn-arxiv-node-classification/pull/12) in [Thrithwaka/ogbn-arxiv-node-classification](https://github.com/Thrithwaka/ogbn-arxiv-node-classification)
-<!--END_SECTION:activity-->
-
----
-
-## Projects <sub>(every public, non-fork repo — auto-listed, sorted by last push)</sub>
-
-<!--START_SECTION:projects-->
-<!-- Auto-generated: every public, non-fork repo, sorted by most recently pushed. -->
-| Project | Summary | Stack | Last Update |
-|---|---|---|---|
-| **[Thrithwaka](https://github.com/Thrithwaka/Thrithwaka)** | — | Python | 2026-08-31 |
-| **[ogbn-arxiv-node-classification](https://github.com/Thrithwaka/ogbn-arxiv-node-classification)** | Node classification on the OGBN-Arxiv citation network using GCN and GraphSAGE, with model comparison, interpretability analysis, and an interactive dashboard. | Jupyter Notebook | 2026-08-17 |
-| **[smartcare-ai-project](https://github.com/Thrithwaka/smartcare-ai-project)** | AI-powered disease risk classification system for SmartCare Hospital using ML, EDA, and Explainable AI (SHAP) — CCS3440 Artificial Intelligence coursework project. | Jupyter Notebook | 2026-08-16 |
-| **[my-portfolio](https://github.com/Thrithwaka/my-portfolio)** | Professional portfolio website highlighting academic foundations, AI engineering projects, certifications, technical skills, and innovation-focused personal branding. | TypeScript | 2026-05-27 |
-| **[LearnLens](https://github.com/Thrithwaka/LearnLens)** | AI-powered smart learning and quiz platform built with Flask, SQLAlchemy, and emotion-aware analytics to enhance digital education through interactive assessments, performance tracking, and intelligent engagement. | HTML | 2026-05-18 |
-| **[motor_rul_prediction](https://github.com/Thrithwaka/motor_rul_prediction)** | AI-powered Motor Remaining Useful Life (RUL) Prediction System with real-time health monitoring, LSTM-based predictive maintenance, live sensor analytics, fault detection, and Flask dashboard integration for smart industrial condition monitoring. | HTML | 2026-05-18 |
-| **[Wisec](https://github.com/Thrithwaka/Wisec)** | AI-powered Wi-Fi Security Vulnerability Assessment System that scans wireless networks, detects vulnerabilities, analyzes security risks, simulates passive threats, and provides intelligent security recommendations through Flask, machine learning, and cybersecurity automation. | Python | 2026-05-18 |
-| **[CIT-23-02-0094](https://github.com/Thrithwaka/CIT-23-02-0094)** | — | Shell | 2025-08-24 |
-<!--END_SECTION:projects-->
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/thrithwaka-preethi-7100ab295" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:thrithwakapreethi57@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2d6a4f?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Thrithwaka" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-081c15?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://thrithwakapreethishakya.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-081c15?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:52b788,25:40916c,50:2d6a4f,75:1b4332,100:0d4429&height=110&section=footer&animation=fadeIn" />
-
-<sub>"The goal is to turn data into information, and information into insight." — Carly Fiorina</sub>
+<sub>Thrithwaka Preethi Shakya · Data Science, SLTC Research University</sub>
 
 </div>
