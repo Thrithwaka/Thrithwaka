@@ -1,0 +1,27 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1B4332"/>
+      <stop offset="50%" stop-color="#2D6A4F"/>
+      <stop offset="100%" stop-color="#1B4332"/>
+      <animate attributeName="x1" values="0%;30%;0%" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="150" fill="url(#footGrad)"/>
+
+  <!-- drifting orbit of dots -->
+  <g>
+    <circle cx="1080" cy="75" r="2.5" fill="#95D5B2">
+      <animateTransform attributeName="transform" type="rotate" from="0 1080 75" to="360 1080 75" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="45" r="2" fill="#74C69D">
+      <animateTransform attributeName="transform" type="rotate" from="0 1080 75" to="-360 1080 75" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="105" r="3" fill="#52B788">
+      <animateTransform attributeName="transform" type="rotate" from="0 1080 75" to="360 1080 75" dur="18s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="70" y="70" font-family="Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#FBFDFC">Thrithwaka Preethi Shakya</text>
+  <text x="70" y="98" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13.5" fill="#B7E4C7">Data Science, SLTC Research University — building toward AI systems that understand context, language, and people.</text>
+</svg>

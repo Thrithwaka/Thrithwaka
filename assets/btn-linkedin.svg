@@ -1,0 +1,11 @@
+<svg width="190" height="52" viewBox="0 0 190 52" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="188" height="50" rx="26" fill="#FBFDFC" stroke="#95D5B2" stroke-width="1.5"/>
+  <circle cx="34" cy="26" r="3" fill="#52B788">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="52" y="14" width="24" height="24" rx="6" fill="#1B4332"/>
+  <rect x="59" y="21" width="3.4" height="11" fill="#FBFDFC"/>
+  <circle cx="60.7" cy="17.2" r="2" fill="#FBFDFC"/>
+  <path d="M65.5 32V25.8c0-2.2 1.2-3.4 3-3.4 1.7 0 2.7 1.1 2.7 3.4V32h3.4v-6.9c0-3.7-2-5.5-4.9-5.5-2.2 0-3.5 1.2-4.2 2.1v-1.8h-3.4c.05.9 0 12.1 0 12.1h3.4z" fill="#FBFDFC"/>
+  <text x="88" y="31" font-family="Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#1B4332">LinkedIn</text>
+</svg>

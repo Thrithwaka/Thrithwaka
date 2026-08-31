@@ -1,0 +1,88 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F1FBF6"/>
+      <stop offset="45%" stop-color="#D8F3DC"/>
+      <stop offset="100%" stop-color="#B7E4C7"/>
+      <animate attributeName="x1" values="0%;20%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="0%;15%;0%" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#52B788" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#52B788" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accentBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1B4332"/>
+      <stop offset="50%" stop-color="#52B788"/>
+      <stop offset="100%" stop-color="#95D5B2"/>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bgGrad)"/>
+  <rect width="1200" height="6" y="0" fill="url(#accentBar)"/>
+  <rect width="1200" height="6" y="274" fill="url(#accentBar)"/>
+
+  <!-- ambient glow behind node cluster -->
+  <circle cx="960" cy="140" r="140" fill="url(#glow)" filter="url(#soft)"/>
+
+  <!-- orbiting node cluster, right side -->
+  <g>
+    <circle cx="960" cy="140" r="3" fill="#1B4332"/>
+    <g>
+      <circle cx="1040" cy="90" r="9" fill="#2D6A4F">
+        <animate attributeName="r" values="9;12;9" dur="3.1s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="960" y1="140" x2="1040" y2="90" stroke="#52B788" stroke-width="1.4" stroke-opacity="0.5">
+        <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="3.1s" repeatCount="indefinite"/>
+      </line>
+    </g>
+    <g>
+      <circle cx="1055" cy="165" r="12" fill="#40916C">
+        <animate attributeName="r" values="12;16;12" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="960" y1="140" x2="1055" y2="165" stroke="#52B788" stroke-width="1.4" stroke-opacity="0.5">
+        <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="2.4s" repeatCount="indefinite"/>
+      </line>
+    </g>
+    <g>
+      <circle cx="985" cy="205" r="7" fill="#74C69D">
+        <animate attributeName="r" values="7;10;7" dur="3.6s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="960" y1="140" x2="985" y2="205" stroke="#52B788" stroke-width="1.4" stroke-opacity="0.5">
+        <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="3.6s" repeatCount="indefinite"/>
+      </line>
+    </g>
+    <g>
+      <circle cx="895" cy="185" r="10" fill="#52B788">
+        <animate attributeName="r" values="10;13;10" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="960" y1="140" x2="895" y2="185" stroke="#52B788" stroke-width="1.4" stroke-opacity="0.5">
+        <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="2.8s" repeatCount="indefinite"/>
+      </line>
+    </g>
+    <g>
+      <circle cx="900" cy="95" r="8" fill="#1B4332">
+        <animate attributeName="r" values="8;11;8" dur="3.3s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="960" y1="140" x2="900" y2="95" stroke="#52B788" stroke-width="1.4" stroke-opacity="0.5">
+        <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="3.3s" repeatCount="indefinite"/>
+      </line>
+    </g>
+  </g>
+
+  <!-- identity block, left side -->
+  <text x="70" y="118" font-family="Inter, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#1B4332">Thrithwaka Preethi Shakya</text>
+  <text x="70" y="155" font-family="Inter, Helvetica, Arial, sans-serif" font-size="19" font-weight="500" fill="#2D6A4F">Data Science Researcher · AI / ML Engineer · Applied NLP</text>
+
+  <rect x="70" y="180" width="230" height="30" rx="15" fill="#FBFDFC" stroke="#95D5B2"/>
+  <text x="185" y="200" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B4332">SLTC Research University</text>
+
+  <rect x="312" y="180" width="200" height="30" rx="15" fill="#FBFDFC" stroke="#95D5B2"/>
+  <text x="412" y="200" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B4332">Low-Resource NLP</text>
+
+  <rect x="524" y="180" width="180" height="30" rx="15" fill="#FBFDFC" stroke="#95D5B2"/>
+  <text x="614" y="200" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1B4332">Grounded LLMs</text>
+</svg>
