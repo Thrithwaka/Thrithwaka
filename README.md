@@ -90,7 +90,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/Thrithwaka/ogbn-arxiv-node-classification/pull/12) in [Thrithwaka/ogbn-arxiv-node-classification](https://github.com/Thrithwaka/ogbn-arxiv-node-classification)
+1. 🎉 Merged PR [#5](https://github.com/ThilaniDilmani/public-pulse-srilanka/pull/5) in [ThilaniDilmani/public-pulse-srilanka](https://github.com/ThilaniDilmani/public-pulse-srilanka)
 <!--END_SECTION:activity-->
 
 <br/>
