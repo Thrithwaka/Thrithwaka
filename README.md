@@ -75,7 +75,7 @@
 <!-- Auto-generated: every public, non-fork repo, sorted by most recently pushed. -->
 | Project | Summary | Stack | Last Update |
 |---|---|---|---|
-| **[Thrithwaka](https://github.com/Thrithwaka/Thrithwaka)** | — | Python | 2026-09-04 |
+| **[Thrithwaka](https://github.com/Thrithwaka/Thrithwaka)** | — | Python | 2026-09-08 |
 | **[ogbn-arxiv-node-classification](https://github.com/Thrithwaka/ogbn-arxiv-node-classification)** | Node classification on the OGBN-Arxiv citation network using GCN and GraphSAGE, with model comparison, interpretability analysis, and an interactive dashboard. | Jupyter Notebook | 2026-09-03 |
 | **[smartcare-ai-project](https://github.com/Thrithwaka/smartcare-ai-project)** | AI-powered disease risk classification system for SmartCare Hospital using ML, EDA, and Explainable AI (SHAP) — CCS3440 Artificial Intelligence coursework project. | Jupyter Notebook | 2026-08-16 |
 | **[my-portfolio](https://github.com/Thrithwaka/my-portfolio)** | Professional portfolio website highlighting academic foundations, AI engineering projects, certifications, technical skills, and innovation-focused personal branding. | TypeScript | 2026-05-27 |
