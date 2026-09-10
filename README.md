@@ -90,7 +90,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/ThilaniDilmani/public-pulse-srilanka/pull/5) in [ThilaniDilmani/public-pulse-srilanka](https://github.com/ThilaniDilmani/public-pulse-srilanka)
+1. 🎉 Merged PR [#22](https://github.com/ThilaniDilmani/public-pulse-srilanka/pull/22) in [ThilaniDilmani/public-pulse-srilanka](https://github.com/ThilaniDilmani/public-pulse-srilanka)
 <!--END_SECTION:activity-->
 
 <br/>
